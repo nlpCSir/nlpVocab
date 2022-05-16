@@ -25,7 +25,7 @@
     vocab=Vocab("./vocab.csv")
 ```
 
-#### 3.How to usr vocab
+#### 4.How to usr vocab
 ```python
     #showvocab
     vocab.showVocab()
